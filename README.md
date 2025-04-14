@@ -31,29 +31,6 @@ This project demonstrates how to predict stock prices (using Apple Inc. - AAPL a
 
 ---
 
-## 📊 Model Performance (on Test Data)
-
-- **MAE**: *X.XX*
-- **RMSE**: *X.XX*
-- **R² Score**: *X.XXXX*
-
-*Values above are placeholders. Run the script to see actual results.*
-
----
-
-## 📂 File Structure
-
-```
-📁 stock-price-prediction
-│
-├── 📜 stock_prediction_xgboost.py   # Main script
-├── 📈 sample_output.png             # Plot comparing actual vs predicted prices
-├── 📊 feature_importance.png        # Feature importance bar chart
-└── 📄 README.md                     # This file
-```
-
----
-
 ## ▶️ How to Run
 
 1. Clone the repo:
@@ -74,15 +51,6 @@ This project demonstrates how to predict stock prices (using Apple Inc. - AAPL a
 
 ---
 
-## 📷 Visual Output
-
-### 🔹 Predicted vs Actual Closing Prices
-![Predicted vs Actual](sample_output.png)
-
-### 🔹 Top 20 Feature Importances
-![Feature Importance](feature_importance.png)
-
----
 
 ## 🤝 Let’s Connect
 
